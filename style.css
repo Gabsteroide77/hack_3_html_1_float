@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+}
+
+div{
+    height: 100px;
+    background-color: #93b5c9;
+}
+
+section{
+    width: 100%;
+    height: 250px;
+    margin: 0 0 10px 0;
+    background-color: #ab2849;
+    clear: both;    
+}
+
+nav{
+    width: 85%;
+    height: 100px;
+    margin: 10px 0 10px 0 ;
+    background: #ab2849;
+    float: right;
+}
+
+footer{
+    width: 97%;
+    height: 75px;
+    background-color: #ab2849;
+    margin: 37% 0 0 20px;
+    clear: both;
+}
